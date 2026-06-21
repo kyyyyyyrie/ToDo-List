@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="priority_array">
+        <item>低优</item>
+        <item>中优</item>
+        <item>高优</item>
+    </string-array>
+</resources>

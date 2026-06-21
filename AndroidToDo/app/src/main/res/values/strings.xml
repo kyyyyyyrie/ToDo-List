@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">todo list</string>
+    <string name="hint_input">请输入待办内容</string>
+    <string name="hint_search">搜索待办...</string>
+    <string name="btn_add">添加</string>
+    <string name="btn_cancel">取消</string>
+    <string name="btn_delete">删除</string>
+    <string name="btn_edit">编辑</string>
+    <string name="btn_save">保存</string>
+    <string name="btn_mark_done">完成</string>
+    <string name="btn_sync">同步到服务端</string>
+    <string name="btn_undo">撤销</string>
+    <string name="btn_retry">重试</string>
+    <string name="empty_hint">暂无待办</string>
+    <string name="empty_subtitle">点击下方按钮添加新任务</string>
+    <string name="filter_all">全部</string>
+    <string name="filter_high">高优</string>
+    <string name="filter_medium">中优</string>
+    <string name="filter_low">低优</string>
+    <string name="input_empty">请输入待办内容</string>
+    <string name="add_success">添加成功</string>
+    <string name="delete_success">已删除</string>
+    <string name="sync_success">同步成功</string>
+    <string name="sync_fail">同步失败，请检查网络</string>
+    <string name="nothing_to_sync">没有待办需要同步</string>
+    <string name="dialog_title_edit">编辑待办</string>
+    <string name="toast_saved">已保存</string>
+    <string name="toast_undone">已取消完成</string>
+    <string name="toast_done">已标记完成</string>
+    <string name="due_date_hint">截止日期</string>
+    <string name="skeleton_loading">加载中</string>
+    <string name="stats_trend">完成任务</string>
+</resources>
